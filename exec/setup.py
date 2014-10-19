@@ -6,4 +6,4 @@ Created on Oct 19, 2014
 from distutils.core import setup
 import py2exe
 
-setup(console=['GUIpack.py'])
+setup(console=['executable.py'])
